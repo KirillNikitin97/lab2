@@ -1,0 +1,38 @@
+[33mcommit a62ad05b0e8f63305b195f664b294e2fc54884eb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 2732c4c 9e362fa
+Author: KirillNikitin97 <kirill-nik-88@mail.ru>
+Date:   Fri Sep 20 16:56:41 2019 +0300
+
+    коммит
+
+[33mcommit 2732c4c2055d1dac6246fc87f2de395227725c63[m
+Author: KirillNikitin97 <kirill-nik-88@mail.ru>
+Date:   Fri Sep 20 16:38:40 2019 +0300
+
+    3 коммит на мастере
+
+ create mode 100644 file4.txt
+
+[33mcommit 9e362faf07429a719b911fc2b5df1fda54c6db80[m[33m ([m[1;32mnew-feature[m[33m)[m
+Author: KirillNikitin97 <kirill-nik-88@mail.ru>
+Date:   Fri Sep 20 16:36:23 2019 +0300
+
+    Первоначальный коммит на новой ветке
+
+ create mode 100644 file3.txt
+
+[33mcommit 6db3ad8fdb86625e4610be3507b9f03460d615c4[m
+Author: KirillNikitin97 <kirill-nik-88@mail.ru>
+Date:   Fri Sep 20 16:34:11 2019 +0300
+
+    Второй коммит
+
+ create mode 100644 file2.txt
+
+[33mcommit 78fe1eab8e61107b12a256de2014a69b7d39e0a8[m
+Author: KirillNikitin97 <kirill-nik-88@mail.ru>
+Date:   Fri Sep 20 16:28:53 2019 +0300
+
+    Первоначальный коммит
+
+ create mode 100644 file.txt
